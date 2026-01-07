@@ -4,8 +4,6 @@ import os
 
 def visualize():
     # Load data
-    data_path = '../../data/extract_data.csv' # Assuming standard naming or relative path
-    # Actually we should use the Week 1 specific data
     data_path = '../../data/distance_per_month.csv'
     
     if not os.path.exists(data_path):

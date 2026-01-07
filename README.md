@@ -22,7 +22,7 @@ The tutorials cover a broad range of data visualisation tools:
 -   **Python**: Matplotlib, Seaborn, Plotly, Dash.
 -   **R**: ggplot2, Shiny (interactive).
 -   **JavaScript**: D3.js.
--   **GUI Tools**: Tableau, PowerBI, Flourish.
+-   **GUI Tools**: Tableau, PowerBI.
 
 ## Dataset
 
